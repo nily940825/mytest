@@ -1,4 +1,2 @@
-spring:
-  application:
-    name: config-dev-0503
+name: config-dev-0503
 
